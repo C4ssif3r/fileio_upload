@@ -25,6 +25,7 @@ import fileio_upload
 MyUploader = fileio_upload.Main(file="image.jpg") # or file patch
 MyUploader.upload()
 ```
+
 [![GitHub issues](https://badgen.net/github/issues/c4ssif3r/fileio_upload/)](https://GitHub.com/c4ssif3r/fileio_upload/issues/)
 
 
