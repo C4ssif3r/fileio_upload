@@ -1,4 +1,4 @@
-[![PyPi](https://badgen.net/badge/icon/pypi?icon=pypi&label)](https://pypi.org/project/fileio-upload/1.2.0/)
+[![PyPi](https://badgen.net/badge/icon/pypi?icon=pypi&label)](https://pypi.org/project/fileio-upload/1.2.1/)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![](https://img.shields.io/static/v1?label=OWNER&message=Mji~DarkPwn&color=black)]()
 [![](https://img.shields.io/static/v1?label=Version&message=1.2.0&color=green)]()
