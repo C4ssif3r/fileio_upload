@@ -18,7 +18,7 @@ class Main:
         else:
             res = requests.post(
                 url,
-                files={'file': ('file', obj)}
+                files={'file': ('file', self.file)}
             )
 
         try:
