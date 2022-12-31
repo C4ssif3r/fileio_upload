@@ -1,0 +1,2 @@
+class FileIoErrors(Exception):
+    pass
